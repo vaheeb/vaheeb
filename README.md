@@ -1,93 +1,104 @@
-<!-- HEADER -->
-
-<h1 align="center">Hi 👋, I'm Muhammed Vaheeb K</h1>
-<h3 align="center">🚀 Backend Developer | Java & Spring Boot | Building Real Systems</h3>
-
+<h1 align="center">Muhammed Vaheeb K</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Engineer;Workflow+Systems+Builder;Always+Learning+New+Things" />
-</p>
-
----
-
-## 🧠 About Me
-
-* 💻 Java Developer focused on **Spring Boot & Backend Systems**
-* ⚙️ Building real-world workflows using **Temporal**
-* 🧩 Strong in **API Design, Databases & System Thinking**
-* ☁️ Exploring **Cloud & DevOps (AWS, Docker, CI/CD)**
-* 🚀 Goal: Build scalable products & own a tech startup
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### ⚙️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaheeb&show_icons=true&theme=radical" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=vaheeb&theme=radical" height="180"/>
+Backend Engineer • Java & Spring Boot • Distributed Systems
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaheeb&layout=compact&theme=radical"/>
+Building scalable backend systems, workflow-driven architectures, and production-grade applications.
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-🔹 **Student Admission Workflow System (Temporal)**
+Backend-focused Software Engineer with experience building **distributed systems, microservices, and event-driven architectures**.
 
-* Distributed workflow system using Temporal
-* Handles approvals, signals & async processing
-
-🔹 **Food Delivery Workflow System**
-
-* Event-driven workflow using Temporal
-* Real-time order state tracking
-
-🔹 **Football Academy Management System**
-
-* Role-based authentication (Spring Security)
-* Event & user management system
+* Strong in **Java (8/17), Spring Boot, REST APIs**
+* Experience with **Temporal workflows, Kafka, and real-time systems**
+* Worked across domains: Logistics, Banking, Telecom, Airline, FinTech
+* Comfortable across **Java backend + modern TypeScript ecosystem**
 
 ---
 
-## 🌐 Connect with Me
+## What I Work On
 
-* 🌍 Website: https://vybix.co.in
-* 📧 Email: [kmvaheeb@gmail.com](mailto:kmvaheeb@gmail.com)
-* 💼 LinkedIn: *(add your link here)*
+* Designing **scalable backend architectures**
+* Building **workflow orchestration systems (Temporal)**
+* Developing **high-performance APIs and microservices**
+* Exploring **cloud-native and DevOps practices**
 
 ---
 
-## 👀 Profile Views
+## Tech Stack
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vaheeb&label=Profile%20views&color=0e75b6&style=flat" alt="vaheeb" />
+**Backend**
+Java • Spring Boot • Hibernate • Node.js • Bun • Hono.js
+
+**Databases**
+PostgreSQL • MySQL • Redis • Elasticsearch
+
+**Systems**
+Microservices • Event-driven Architecture • Apache Kafka • Temporal
+
+**DevOps**
+Docker • CI/CD • AWS S3 • Ubuntu Server
+
+---
+
+## Experience Highlights
+
+* Built backend systems handling **50K+ daily transactions**
+* Improved performance by **up to 50% through optimization & caching**
+* Migrated enterprise systems from **Java 8 → Java 17**
+* Designed internal tools for **monitoring, logging, and incident detection**
+* Delivered multiple **production-grade freelance applications**
+
+---
+
+## Selected Projects
+
+**Workflow Systems (Temporal)**
+
+* Distributed workflow orchestration with signals, async processing, and state tracking
+
+**Logistics Platform**
+
+* Microservices-based backend with event streaming and monitoring
+
+**CRM & FinTech Applications**
+
+* Full-stack systems with secure APIs, RBAC, and workflow automation
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaheeb&show_icons=true&theme=default" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=vaheeb&theme=default" height="160"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## Focus
 
-> I don’t just write code — I build systems 🚀
+Currently exploring:
+
+* Distributed system design
+* Cloud-native architecture
+* Backend performance optimization
+* Secure authentication & system reliability
+
+---
+
+## Contact
+
+* Website: https://vybix.co.in
+* Email: [kmvaheeb@gmail.com](mailto:kmvaheeb@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/muhammed-vaheeb
+
+---
+
+<p align="center">
+<sub>Focused on building systems, not just writing code.</sub>
+</p>
