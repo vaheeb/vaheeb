@@ -31,17 +31,7 @@ Backend-focused Software Engineer with experience building **distributed systems
 
 ## Architecture Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaheeb/vaheeb/main/assets/architecture.png" width="700"/>
-</p>
-
-<p align="center">
-<sub>Workflow-driven microservices architecture (Temporal + Kafka + Distributed Services)</sub>
-</p>
-
----
-
-## System Design
+Designing workflow-driven microservices using Temporal and event-driven architecture.
 
 ```text
 Client → API Layer → Service Layer → Workflow Engine (Temporal)
@@ -122,7 +112,7 @@ Docker • CI/CD • AWS S3 • Linux
 
 ## Contact
 
-* 🌐 https://vaheeb.vybix.co.in
+* 🌐 https://vybix.co.in
 * 📧 [kmvaheeb@gmail.com](mailto:kmvaheeb@gmail.com)
 * 💼 https://www.linkedin.com/in/muhammed-vaheeb
 
