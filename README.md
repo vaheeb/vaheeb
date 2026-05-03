@@ -1,31 +1,55 @@
 <h1 align="center">Muhammed Vaheeb K</h1>
 <p align="center">
-Backend Engineer • Java & Spring Boot • Distributed Systems
+Backend Engineer • Distributed Systems • Workflow Architecture
 </p>
 
 <p align="center">
-Building scalable backend systems, workflow-driven architectures, and production-grade applications.
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=555555&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Designing+workflow-driven+architectures;Focused+on+performance+and+reliability" />
 </p>
 
 ---
 
 ## About
 
-Backend-focused Software Engineer with experience building **distributed systems, microservices, and event-driven architectures**.
+Backend-focused Software Engineer with hands-on experience building **distributed systems, microservices, and event-driven architectures** across production environments.
 
 * Strong in **Java (8/17), Spring Boot, REST APIs**
-* Experience with **Temporal workflows, Kafka, and real-time systems**
-* Worked across domains: Logistics, Banking, Telecom, Airline, FinTech
-* Comfortable across **Java backend + modern TypeScript ecosystem**
+* Experienced in **Temporal workflow orchestration & Kafka streaming**
+* Delivered systems across **Logistics, Banking, Telecom, Airline, FinTech**
+* Works across **Java backend + modern TypeScript ecosystem**
 
 ---
 
-## What I Work On
+## Currently Building
 
-* Designing **scalable backend architectures**
-* Building **workflow orchestration systems (Temporal)**
-* Developing **high-performance APIs and microservices**
-* Exploring **cloud-native and DevOps practices**
+* ⚙️ Workflow-driven systems using **Temporal**
+* 🚀 Backend services with **high concurrency & async processing**
+* 🔍 Observability pipelines using **Elasticsearch & logging systems**
+* ☁️ Exploring **Docker, CI/CD, and cloud-native deployment patterns**
+
+---
+
+## Architecture Focus
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaheeb/vaheeb/main/assets/architecture.png" width="700"/>
+</p>
+
+> Replace this image with your actual system diagram (Temporal workflow / microservices flow)
+
+---
+
+## System Design Thinking
+
+```text
+Client → API Layer → Service Layer → Workflow Engine (Temporal)
+                     ↓
+               Event Streaming (Kafka)
+                     ↓
+           Database + Cache (PostgreSQL / Redis)
+                     ↓
+              Observability (Logs / Metrics)
+```
 
 ---
 
@@ -34,71 +58,74 @@ Backend-focused Software Engineer with experience building **distributed systems
 **Backend**
 Java • Spring Boot • Hibernate • Node.js • Bun • Hono.js
 
-**Databases**
+**Data & Storage**
 PostgreSQL • MySQL • Redis • Elasticsearch
 
 **Systems**
-Microservices • Event-driven Architecture • Apache Kafka • Temporal
+Microservices • Event-driven Architecture • Kafka • Temporal
 
 **DevOps**
-Docker • CI/CD • AWS S3 • Ubuntu Server
+Docker • CI/CD • AWS S3 • Linux
 
 ---
 
-## Experience Highlights
+## Selected Work
 
-* Built backend systems handling **50K+ daily transactions**
-* Improved performance by **up to 50% through optimization & caching**
-* Migrated enterprise systems from **Java 8 → Java 17**
-* Designed internal tools for **monitoring, logging, and incident detection**
-* Delivered multiple **production-grade freelance applications**
+**Distributed Workflow Systems**
 
----
-
-## Selected Projects
-
-**Workflow Systems (Temporal)**
-
-* Distributed workflow orchestration with signals, async processing, and state tracking
+* Designed async workflows using Temporal with signals & state transitions
 
 **Logistics Platform**
 
-* Microservices-based backend with event streaming and monitoring
+* Built microservices handling **50K+ daily transactions**
 
-**CRM & FinTech Applications**
+**Monitoring & Observability**
 
-* Full-stack systems with secure APIs, RBAC, and workflow automation
+* Log pipelines using Elasticsearch + Kibana for real-time debugging
+
+**FinTech / CRM Platforms**
+
+* Secure APIs with RBAC, validation, and workflow automation
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaheeb&show_icons=true&theme=default" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=vaheeb&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaheeb&show_icons=true&theme=default" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=vaheeb&theme=default" height="150"/>
 </p>
 
 ---
 
-## Focus
+## CI / Deployment
 
-Currently exploring:
+<p align="center">
+  <img src="https://img.shields.io/badge/Deployment-Automated-green?style=flat" />
+  <img src="https://img.shields.io/badge/CI-CD%20Pipeline-active-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Server-Linux%20(Ubuntu)-orange?style=flat" />
+</p>
+
+---
+
+## Engineering Focus
 
 * Distributed system design
-* Cloud-native architecture
 * Backend performance optimization
-* Secure authentication & system reliability
+* Workflow orchestration & async processing
+* Scalable API architecture
+* Secure authentication systems
 
 ---
 
 ## Contact
 
-* Website: https://vybix.co.in
-* Email: [kmvaheeb@gmail.com](mailto:kmvaheeb@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/muhammed-vaheeb
+* 🌐 https://vaheeb.vybix.co.in
+* 📧 [kmvaheeb@gmail.com](mailto:kmvaheeb@gmail.com)
+* 💼 https://www.linkedin.com/in/muhammed-vaheeb
 
 ---
 
 <p align="center">
-<sub>Focused on building systems, not just writing code.</sub>
+<sub>Focused on building scalable systems, not just writing code.</sub>
 </p>
