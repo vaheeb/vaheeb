@@ -11,12 +11,12 @@ Backend Engineer • Distributed Systems • Workflow Architecture
 
 ## About
 
-Backend-focused Software Engineer with hands-on experience building **distributed systems, microservices, and event-driven architectures** across production environments.
+Backend-focused Software Engineer with experience building **distributed systems, microservices, and event-driven architectures** in production environments.
 
 * Strong in **Java (8/17), Spring Boot, REST APIs**
-* Experienced in **Temporal workflow orchestration & Kafka streaming**
-* Delivered systems across **Logistics, Banking, Telecom, Airline, FinTech**
-* Works across **Java backend + modern TypeScript ecosystem**
+* Experience with **Temporal workflow orchestration & Kafka**
+* Built systems across **Logistics, Banking, Telecom, Airline, FinTech**
+* Comfortable across **Java backend + modern TypeScript ecosystem**
 
 ---
 
@@ -35,11 +35,13 @@ Backend-focused Software Engineer with hands-on experience building **distribute
   <img src="https://raw.githubusercontent.com/vaheeb/vaheeb/main/assets/architecture.png" width="700"/>
 </p>
 
-> Replace this image with your actual system diagram (Temporal workflow / microservices flow)
+<p align="center">
+<sub>Workflow-driven microservices architecture (Temporal + Kafka + Distributed Services)</sub>
+</p>
 
 ---
 
-## System Design Thinking
+## System Design
 
 ```text
 Client → API Layer → Service Layer → Workflow Engine (Temporal)
@@ -101,9 +103,9 @@ Docker • CI/CD • AWS S3 • Linux
 ## CI / Deployment
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deployment-Automated-green?style=flat" />
-  <img src="https://img.shields.io/badge/CI-CD%20Pipeline-active-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Server-Linux%20(Ubuntu)-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Deployment-Automated-green" />
+  <img src="https://img.shields.io/badge/CI/CD-Active-blue" />
+  <img src="https://img.shields.io/badge/Server-Ubuntu-orange" />
 </p>
 
 ---
