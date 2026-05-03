@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Vaheeb K
 
-<!--
-**vaheeb/vaheeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Java Backend Developer
+🚀 Building scalable systems & exploring DevOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+* Java, Spring Boot, Hibernate
+* MySQL, Firebase
+* REST APIs, Microservices
+* Git, Docker (learning)
+
+---
+
+## 🚀 Current Focus
+
+* Backend Architecture
+* Workflow systems (Temporal)
+* DevOps & Deployment
+
+---
+
+## 📫 Connect with me
+
+* 🌐 https://vybix.co.in
+* 💼 LinkedIn (add your link)
+
+---
